@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS5_Project3", "PS5_Project3\PS5_Project3.vcxproj", "{B21D526B-7B24-4661-B68D-8E300E85F843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Prospero = Debug|Prospero
+		Release|Prospero = Release|Prospero
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21D526B-7B24-4661-B68D-8E300E85F843}.Debug|Prospero.ActiveCfg = Debug|Prospero
+		{B21D526B-7B24-4661-B68D-8E300E85F843}.Debug|Prospero.Build.0 = Debug|Prospero
+		{B21D526B-7B24-4661-B68D-8E300E85F843}.Release|Prospero.ActiveCfg = Release|Prospero
+		{B21D526B-7B24-4661-B68D-8E300E85F843}.Release|Prospero.Build.0 = Release|Prospero
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D45321-D79B-43F7-9E46-012AA0548DF0}
+	EndGlobalSection
+EndGlobal
