@@ -1,7 +1,6 @@
 # Simple (PS5 PRX)
 
-A basic PS5 PRX (PlayStation Relocatable eXecutable) that provides functions for printing messages, adding numbers, and calculating square numbers.
-This Has No Use And Isnt Game Injected theres no use to this except to hold it on github so im able to clone it when i need it
+A basic PS5 PRX (PlayStation Relocatable eXecutable) that provides functions for printing messages, adding numbers, and calculating square numbers. The sole purpose of this PRX is to be stored on GitHub so it can be cloned when needed.
 ## Introduction
 
 This is a simple console utility implemented as a PS5 PRX (PlayStation Relocatable eXecutable) using C++. It includes several functions to demonstrate basic programming concepts. The utility is designed to be used within a PS5 development environment. (but code isnt usable)
